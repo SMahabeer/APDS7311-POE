@@ -1,4 +1,4 @@
-# APDS7311 POE PART 2
+# APDS7311 POE 
 
 
 ## Table of Contents
