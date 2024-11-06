@@ -166,3 +166,49 @@ Helmet is a group of Node.js middleware modules that safeguard web applications 
 > Information on Mongoose.
 
 Mongoose is an ODM library for MongoDB and Node.js. It handles data associations, does schema validation, and bridges the gap between coded objects and their MongoDB representations (freeCodeCamp, 2018).
+
+
+## YoutubeLink Demostration Link
+
+https://youtu.be/xL7zLtn2lz0
+
+## Authors
+
+```
+st10209473@vcconnect.edu.za
+```
+``` 
+st10222881@vcconnect.edu.za
+```
+```  
+st10053116@vcconnect.edu.za
+```
+```
+st10175551@vcconnect.edu.za
+```
+```  
+st10142592@vcconnect.edu.za
+```
+
+
+## References
+
+- Khaled, A. (2024) Node.js bcrypt.js: A password Hashing Library, Medium. Available at: https://medium.com/@amirakhaled2027/node-js-bcrypt-js-a-password-hashing-library-c9f3270ca024#:~:text=js%20is%20a%20popular%20Node,storing%20passwords%20in%20a%20database. (Accessed: 08 October 2024).
+
+- GeeksforGeeks (2024) What is the purpose of the cookie-parser middleware in express.js?, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/what-is-the-purpose-of-the-cookie-parser-middleware-in-express-js/ (Accessed: 08 October 2024).
+
+- Pabbly (2024) Crypto in Node.js, Pabbly. Available at: https://www.pabbly.com/tutorials/crypto-in-node-js/ (Accessed: 08 October 2024).
+
+- GeeksforGeeks (2024) Implementing CSURF middleware in Node.js, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/implementing-csurf-middleware-in-node-js/ (Accessed: 08 October 2024).
+
+- Npm (2024) Dotenv, npm. Available at: https://www.npmjs.com/package/dotenv (Accessed: 08 October 2024).
+
+- GeeksforGeeks (2024) What is express-session middleware in express?, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/what-is-express-session-middleware-in-express/#:~:text=Session%20management%20can%20be%20done,link%20Install%20express%2Dsession%20module. (Accessed: 08 October 2024).
+
+- Singh, C. (2024) How to handle form inputs efficiently with express-validator in expressjs, DigitalOcean. Available at: https://www.digitalocean.com/community/tutorials/how-to-handle-form-inputs-efficiently-with-express-validator-in-express-js (Accessed: 08 October 2024).
+
+- Sharma, A. (2024) Express JS tutorial [understand in 5 minutes], Simplilearn.com. Available at: https://www.simplilearn.com/tutorials/nodejs-tutorial/what-is-express-js#:~:text=StackExplore%20Program-,What%20Is%20Express%20JS%3F,helps%20manage%20servers%20and%20routes. (Accessed: 08 October 2024).
+
+- Jacob, S. (2023) Securing your node.js application security with Helmet, Medium. Available at: https://medium.com/@selieshjksofficial/securing-your-node-js-application-security-with-helmet-296377385d07 (Accessed: 04 October 2024).
+
+- freeCodeCamp (2018) Introduction to mongoose for mongodb, freeCodeCamp.org. Available at: https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/ (Accessed: 08 October 2024). 
